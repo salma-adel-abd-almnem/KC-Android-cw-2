@@ -1,0 +1,7 @@
+	int height = 170;
+	
+		if( height > 160 ){
+	     	System.out.println("you can go");
+} else if (height < 160){
+             System.out.println("you can not go");
+}
